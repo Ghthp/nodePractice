@@ -1,0 +1,20 @@
+{
+  "name": "nodepractice",
+  "version": "1.0.0",
+  "description": "Learning nodejs",
+  "homepage": "https://github.com/Ghthp/nodePractice#readme",
+  "bugs": {
+    "url": "https://github.com/Ghthp/nodePractice/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ghthp/nodePractice.git"
+  },
+  "license": "ISC",
+  "author": "Ghanshyam",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
